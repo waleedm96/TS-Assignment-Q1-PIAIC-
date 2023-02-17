@@ -1,0 +1,16 @@
+var n11 = 12;
+var n22 = 34;
+console.log(n11 > n22);
+console.log(n11 == n22);
+console.log(n11 < n22);
+console.log(n11 != n22);
+var c1 = "civic";
+console.log(c1 == 'corolla');
+console.log(c1 == "civic");
+console.log(c1 != "honda");
+var sn1 = [1, 3, 5];
+var ns1 = [1, 2, 3];
+console.log(sn1.length > ns1.length);
+console.log(sn1.length == ns1.length);
+console.log(sn1[1] == ns1[2]);
+console.log(sn1[2] == ns1[2]);
