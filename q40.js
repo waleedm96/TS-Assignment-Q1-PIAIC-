@@ -10,7 +10,7 @@ function make_albums(artist, title, tracks) {
 }
 var albums = make_albums('metallica', 'ride the lightening');
 console.log(album+"\n");
-albumss = make_albums('harnoor', 'Moonlight');
+albums = make_albums('harnoor', 'Moonlight');
 console.log(album+"\n");
 albums = make_albums('David Bowie', 'Heros from Heros');
 console.log(album+"\n");
