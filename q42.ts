@@ -1,8 +1,8 @@
 let magician_name=['Ali','Usman','Noman','Hasnain'];
 
-function show_mag(magicians_name){
- for(let i=0;i<magicians_name.length;i++){
-  console.log(magicians_name[i]);
+function show_mag(magician_name){
+ for(let i=0;i<magician_name.length;i++){
+  console.log(magician_name[i]);
  }
  console.log("\n\n");
 }
