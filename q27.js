@@ -5,7 +5,7 @@ if (alien_cs == 'green') {
 if (alien_cs == 'red') {
     console.log("you just earned 10 points");
 }
-if (al_cs == 'blue') {
+if (alien_cs == 'blue') {
     console.log("you just earned 15 points");
 }
 console.log("\n\n\n");
