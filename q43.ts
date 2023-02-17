@@ -14,7 +14,7 @@ function make_great(magician_n){
   new_ar[i]=magician_n[i]+' the great magician';
  }
  for(let i=0;i<magician_n.length;i++){
-  console.log(magician_n[i]);
+  console.log(new_ar[i]);
  }
 
 }
