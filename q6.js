@@ -1,3 +1,3 @@
 var namng = "     \tWaleed_Mahmood          \n       ";
-console.log(naming);
-console.log(naming.trim());
+console.log(namng);
+console.log(namng.trim());
