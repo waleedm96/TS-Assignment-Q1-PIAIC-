@@ -1,7 +1,7 @@
 var as = [];
 if (as.length > 0) {
     for (var i = 0; i < as.length; i++) {
-        if (a[i] < 2) {
+        if (as[i] < 2) {
             console.log("person is baby");
         }
         if (as[i] >= 2 && as[i] < 4) {
