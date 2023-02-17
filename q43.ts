@@ -6,7 +6,7 @@ function show_magi(magician_n){
  }
  console.log("\n\n");
 }
-
+show_magi(magician_n)
 
 let new_ar=[""];
 function make_great(magician_n){
@@ -18,7 +18,8 @@ function make_great(magician_n){
  }
 
 }
+make_great(new_ar);
 
-
+console.log("\n\n")
 show_magi(magician_n);
 show_magi(new_ar);
